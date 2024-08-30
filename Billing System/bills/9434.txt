@@ -1,0 +1,12 @@
+	Welcome to the Mart 
+
+ Bill Number : 9434
+ Customer Name: Ayu
+ ========================================
+ Products		QTY	 Price
+ ========================================
+ Jeeru 		2		80
+--------------------------------------
+ Soft Drinks Tax			Rs. 4.0
+ Total Bill : 			 Rs. 84.0
+--------------------------------------

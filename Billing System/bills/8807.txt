@@ -1,0 +1,16 @@
+	Welcome to the Mart 
+
+ Bill Number : 8807
+ Customer Name: sdfghjk
+ ========================================
+ Products		QTY	 Price
+ ========================================
+ Face Wash 		3		180
+ Salt 		3		135
+ Breezer 		3		300
+--------------------------------------
+ Cosmetic Tax			Rs. 9.0
+ Grocery Tax			Rs. 13.5
+ Soft Drinks Tax			Rs. 15.0
+ Total Bill : 			 Rs. 652.5
+--------------------------------------

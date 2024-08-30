@@ -1,0 +1,17 @@
+	Welcome to the Mart 
+
+ Bill Number : 5171
+ Customer Name: asdfvb
+ ========================================
+ Products		QTY	 Price
+ ========================================
+ Face Creame 		5		600
+ Hair Shampoo 		5		900
+ Food Oil 		5		900
+ Jeeru 		5		200
+--------------------------------------
+ Cosmetic Tax			Rs. 75.0
+ Grocery Tax			Rs. 90.0
+ Soft Drinks Tax			Rs. 10.0
+ Total Bill : 			 Rs. 2775.0
+--------------------------------------

@@ -1,0 +1,22 @@
+	Welcome to the Mart 
+
+ Bill Number : 6343
+ Customer Name: Deepali Shet
+ Phone Number : 123456789
+ ========================================
+ Products		QTY	 Price
+ ========================================
+ Face Wash 		1		60
+ Hair Shampoo 		2		360
+ Body Lotion 		2		360
+ Rice 		1		80
+ Lentils 		1		60
+ Salt 		1		45
+ Jeeru 		1		40
+ Limca 		1		50
+--------------------------------------
+ Cosmetic Tax			Rs. 39.0
+ Grocery Tax			Rs. 18.5
+ Soft Drinks Tax			Rs. 4.5
+ Total Bill : 			 Rs. 1117.0
+--------------------------------------

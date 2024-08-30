@@ -1,0 +1,17 @@
+	Welcome to the Mart 
+
+ Bill Number : 4403
+ Customer Name: cvbn
+ ========================================
+ Products		QTY	 Price
+ ========================================
+ Face Creame 		2		240
+ Hair Gel 		2		280
+ Food Oil 		2		360
+ Limca 		2		100
+--------------------------------------
+ Cosmetic Tax			Rs. 26.0
+ Grocery Tax			Rs. 36.0
+ Soft Drinks Tax			Rs. 5.0
+ Total Bill : 			 Rs. 1047.0
+--------------------------------------
